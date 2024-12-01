@@ -4,13 +4,13 @@
 console.log(
   "What worked well for you over the last 9 weeks that aided in your learning process?"
 );
-console.log("");
+console.log("Over the last 9 weeks the modules and lecture activities were always a big help with some of the assignments.");
 
 // 2. Write a console.log() statement that answers the following question: What would you
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("For this course specifically I would like for it to be a longer than 9 weeks. Learning JavaScript at a fast pace does not help with retaining information.");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
